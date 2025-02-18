@@ -7,7 +7,7 @@
 ## 📌 Featured Projects  
 🔹 **[Edible Bird Nest Grading System]()**  
 🔹 **[Fiery Dragons Board Game]()**  
-🔹 **[Global Economics Data Visualization Dashboard]()** 
+🔹 **[Global Economics Data Visualization Dashboard](https://github.com/khaironglai/econ-viz)** 
 
 ## 🔧 Technologies & Tools  
 
