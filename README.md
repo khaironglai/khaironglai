@@ -5,7 +5,7 @@
 📧 Reach me at khairong.l@gmail.com
 
 ## 📌 Featured Projects  
-🔹 **[Edible Bird Nest Grading System]()**  
+🔹 **[Edible Bird Nest Grading System](https://github.com/khaironglai/ebn-grad)**  
 🔹 **[Fiery Dragons Board Game](https://github.com/khaironglai/fiery-dragons)**  
 🔹 **[Global Economics Data Visualization Dashboard](https://github.com/khaironglai/econ-viz)** 
 
