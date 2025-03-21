@@ -1,7 +1,6 @@
 # Hi, I'm Khairong Lai 👋  
-👨🏻‍🎓 Computer Science Graduate from Monash University Malaysia  
-👨🏻‍💻 Passionate about Software Development & Artificial Intelligence  
-🔍 Open to any job opportunities  
+👨🏻‍🎓 Java Software Engineer at Ant International 
+👨🏻‍💻 Passionate about Software Development & Artificial Intelligence
 📧 Reach me at khairong.l@gmail.com
 
 ## 📌 Featured Projects  
