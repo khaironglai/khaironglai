@@ -1,6 +1,6 @@
 # Hi, I'm Khairong Lai 👋  
-👨🏻‍🎓 Java Software Engineer at Ant International 
-👨🏻‍💻 Passionate about Software Development & Artificial Intelligence
+👨🏻‍🎓 Java Software Engineer at Ant International  
+👨🏻‍💻 Passionate about Software Development & Artificial Intelligence  
 📧 Reach me at khairong.l@gmail.com
 
 ## 📌 Featured Projects  
